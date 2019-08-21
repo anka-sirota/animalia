@@ -1,0 +1,18 @@
+[gd_resource type="SpatialMaterial" load_steps=2 format=2]
+
+[sub_resource type="NoiseTexture" id=7]
+
+[resource]
+albedo_color = Color( 0.203922, 0.643137, 1, 0.439216 )
+normal_enabled = true
+normal_scale = 3.79
+refraction_enabled = true
+refraction_scale = 0.01
+refraction_texture = SubResource( 7 )
+refraction_texture_channel = 3
+uv1_scale = Vector3( 50, 50, 1 )
+proximity_fade_enable = true
+proximity_fade_distance = 1.0
+distance_fade_mode = 1
+distance_fade_min_distance = 0.0
+distance_fade_max_distance = 1.0

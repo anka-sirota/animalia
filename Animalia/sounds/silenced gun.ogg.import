@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/silenced gun.ogg-986273d6c12cf51fc490cb1b90d78aff.oggstr"
+
+[deps]
+
+source_file="res://sounds/silenced gun.ogg"
+dest_files=[ "res://.import/silenced gun.ogg-986273d6c12cf51fc490cb1b90d78aff.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
